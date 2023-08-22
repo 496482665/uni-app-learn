@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{a}}</text></view></view><view><swiper indicator-dots="{{c}}" autoplay="{{d}}" circular><swiper-item wx:for="{{b}}" wx:for-item="p" wx:key="b"><image src="{{p.a}}"></image></swiper-item></swiper></view>
